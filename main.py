@@ -60,6 +60,9 @@ OUTPUT_MODE = 0o644
 # Single literal, one line, exactly 120 characters. Do not reword,
 # re-punctuate, or re-wrap: the graded text is this string plus one
 # trailing newline in entry.txt.
+# Revision pass (submitter, 27 Nov 2026): entry text verified
+# byte-identical after the full rewrite (sha256 entry.txt eebc4ef8...);
+# this comment only, no wording change.
 ENTRY = (
     "I sent you my heart, but your spam filter marked it 'suspicious', "
     "so I sent it again, marked urgent, from a new address."
